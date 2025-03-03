@@ -1,5 +1,5 @@
 # Task-Management-Application
-Task Management Application(Kotlin language)
+# Task Management Application(Kotlin language)
 
 
 TaskEase redefines task management with its sleek and user-friendly design, providing a seamless experience for organizing your daily responsibilities. The elegant plus mark beckons with promise, inviting you to effortlessly add tasks with a single click. Tailor each task to perfection by furnishing it with a descriptive title and detailed notes, empowering you to capture every nuance and requirement.
